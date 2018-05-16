@@ -120,3 +120,4 @@ The idea of the network was to make it a Star network, this means that there is 
 As an extension we could add in two printers into the networks one on each side and get them to link up to the network as well.  
 
 ## Network System
+![netowrking](https://user-images.githubusercontent.com/31927415/40111305-60271a1c-58fa-11e8-83ac-ae15d0f6fff9.PNG)
