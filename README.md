@@ -118,3 +118,5 @@ Thirdly the two different local networks had to be able to communicate between e
 The idea of the network was to make it a Star network, this means that there is centre and everything revolves around it. The centre of are networks where the switches. Everything had to run though the switches no matter where information was going.
 
 As an extension we could add in two printers into the networks one on each side and get them to link up to the network as well.  
+
+## Network System
