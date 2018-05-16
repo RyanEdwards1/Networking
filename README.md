@@ -103,11 +103,11 @@
 
 We were tasked to create two local star network that connected via a switch to three PCs, One PC and a Router. Once we have created them we need to be able to ping from one of the PCs and be able to ping a PC on the other network. The design you can see above is how I will be going about these requirements and making the networks. Firstly, I needed to know the user requirements so I could break it down using Scrum.
 
-•	Have Two Different Local Networks
-•	Be Able To Add More PCs If Needed
-•	Be Able Communicate Between the Two Networks
-•	See That The Network Is Laid Out As A Star Network 
-•	Be Able To Add Printers
+*	Have Two Different Local Networks
+*	Be Able To Add More PCs If Needed
+*	Be Able Communicate Between the Two Networks
+*	See That The Network Is Laid Out As A Star Network 
+*	Be Able To Add Printers
 
  These were the main 5 user requirements that we had to meet with are networking system. Firstly, we had to have two different local networks running independently with three PCs each and a server each. These 4 components then had to connect to a switch each then to a router. Once we had all of these on each side we could start to connect it all with straight though cable and get the two networks working.
 
