@@ -121,3 +121,5 @@ As an extension we could add in two printers into the networks one on each side 
 
 ## Network System
 ![netowrking](https://user-images.githubusercontent.com/31927415/40111305-60271a1c-58fa-11e8-83ac-ae15d0f6fff9.PNG)
+
+The network below is the finished network completed to the spec of the user requirements and also it follows my design that you can see above. I decided to add in the printers on each side as I had extra time when I finished the main part of the network. I have listed all of the information for the servers and routers. The network follows the design that I made earlier on in the project. It also meets all the requirements that I needed to meet. 
