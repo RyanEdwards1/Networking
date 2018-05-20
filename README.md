@@ -109,7 +109,7 @@ We were tasked to create two local star network that connected via a switch to t
 *	See That The Network Is Laid Out As A Star Network 
 *	Be Able To Add Printers
 
- These were the main 5 user requirements that we had to meet with are networking system. Firstly, we had to have two different local networks running independently with three PCs each and a server each. These 4 components then had to connect to a switch each then to a router. Once we had all of these on each side we could start to connect it all with straight though cable and get the two networks working.
+These were the main 5 user requirements that we had to meet with are networking system. Firstly, we had to have two different local networks running independently with three PCs each and a server each. These 4 components then had to connect to a switch each then to a router. Once we had all of these on each side we could start to connect it all with straight though cable and get the two networks working.
 
 Secondly we need to be able to add more PCs if it is needed later on down the road so when was setting up the switch which everything is connected to I added more slots for the cabling from the extra PCs. They may never be used but seeing as I had to add another to get the other three in you may as well fill it up just in case. This saves time if it come to adding more PCs.
 
@@ -125,5 +125,9 @@ As an extension we could add in two printers into the networks one on each side 
 The network above is the finished network completed to the spec of the user requirements and also it follows my design that you can see in the section above. I decided to add in the printers on each side as I had extra time when I finished the main part of the network. I have listed all of the information for the servers and routers. The network follows the design that I made earlier on in the project. It also meets all the requirements that I needed to meet. 
 
 ## Analyse Test Results 
+
+I Created a test plan to show off the outcome of the final network against the design and requirements that it needed to meet from the start of the project. The test plan shows what was tested and the outcome. I also included the expected result which is what I wanted and expected to happen. Then the actual outcome which is what the real outcome was. I was hoping the actual outcome is the same as the expected outcome as that is what I need to happen to meet the requirements 
+
+![kk](https://user-images.githubusercontent.com/31927415/40279145-49b334e4-5c35-11e8-85c2-d5cc78ad72ec.JPG)
 
 
