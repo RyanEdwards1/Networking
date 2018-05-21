@@ -30,14 +30,35 @@ P2P is very good a sharing information as long as it is not too big of a network
 
 ## Client-server
 
-#### purpose
-#### benefits
-#### resource implications
-#### communications
-#### working practice
-#### commercial opportunity
-#### information sharing
-#### collaboration
+#### Purpose
+
+A client server is a network that is based around the client. The user’s computer will send requests to the server though the internet. The server will manage and sort the requests it will then provide the user with the information needed. Any type of request can be sent to the server but they do have filters so some requests can be blocked via firewalls and antivirus software. It will only let though requests that fit the correct requirements 
+
+#### Benefits
+
+The first benefit of running a client based server is that you can add an endless amount of people to it as long as the sever can handle it. The system is centralised so it makes it easy to add resources and clients. The second benefit is that it is easy to manage as all the resources come from one server which everyone is connected to so if you can manage the server then you can manage everything connected to it as well. Another benefit is the server can be very fast at responding to the user’s requests. So fast that by the time it takes for the website to load it can be about 3 seconds depending on internet speeds. Finally, the server has very good security for all it users as the server can have many different types of encryptions and different firewalls to keep information safe. 
+
+#### Resource Implications
+
+The resource implications for a client server depends on many different things. Firstly, the user could have slow internet and if they are receiving a big file then it can take time for it to travel. Also if there is a lot of people throwing requests at the server then requests can get delayed or lost. This can slow it down as well. But if you have good speeds and the server is not busy you should have no problems getting what you need.
+
+#### Communications
+
+The Users on the PC will send a request to the server though the internet. It will have to travel though several security measures. Like firewalls and anti-virus. One the sever receives the request it will filter it and find the best answer or answers for the users request then send it back to them and display it on their screen.  
+
+#### Working Practice
+
+Client server is mostly used for websites and large file applications because this type of networking can provide powerful servers which can handle large amount of people and requests at one time. This is needed for website or an application as the users will need many requests. It can also keep all the users safe. An example of a client server is Google
+
+#### Commercial Opportunity
+
+A commercial opportunity for a client server could be that someone is creating a database and it will be accessed through the internet from users all over the world and they will need a way to search the database so you create a client server so it can process their request for them and send it back without the user needs to manually search the database 
+
+#### Information Sharing
+
+The users can also upload to the server so if someone was trying to send a piece of data to another person they will upload to the server and the other user will retrieve it from the server 
+
+
 
 ## Cloud
 
