@@ -5,13 +5,28 @@
 ## Peer-based
 
 #### Purpose
+
+A peer-to-peer network is created when two or more PCs are connected and share resources without going through a separate server computer. P2P can also be used to create links between dozens of computers in an office over copper wires. You can also make them on a much wider scale with special protocols and applications which set up direct relationships among users over the internet.
+
 #### Benefits
-#### Resource Implications
+
+The first benefit of using Peer to Peer is that there is no need for a networking operating system. Secondly you do not need to go and buy an expensive server because they are individual workstations and they are used to access the files by themselves. Thirdly each user manages their own computer this means that a network manager is not required. Finally, if a PC was to fail in the network then it does not bring the whole network down it just means that the certain PC cannot be reached at the moment  
+
 #### Communications
+
+The way that the PCs are able to communicate with each other in a P2P network is that they are normally all connected straight to either a hub or a switch. Sometimes they can be connected straight to each other. This means that there is only traffic running two ways though copper straight though cable so there is not much packet loss and the transfer time can be quick.
+
 #### Working Practice
+
+A working practice for P2P would be how you use it in a day to day manor. For example, it could be at work for a design team throwing ideas and design to one another easily though the network. you could also have a P2P Network at home if you are running more than one PC in the house so you can access the same files any where
+
 #### Commercial Opportunity
+
+P2P can be used primarily in a smaller company as if you trying to spread a P2P network though a big office complete firstly you will have loads of cabling secondly the stress on the PCs will be much will all the files going around. So I would limit P2P to smaller projects in company’s so that the load does not become too much. 
+
 #### Information Sharing
-#### Collaboration
+
+P2P is very good a sharing information as long as it is not too big of a network it can work well. The peer-to-peer movement allowed millions of Internet users to connect "directly, forming groups and collaborating to become user-created search engines, virtual supercomputers, and file systems
 
 ## Client-server
 
