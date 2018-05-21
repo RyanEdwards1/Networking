@@ -94,13 +94,25 @@ The cloud is probably one of the best ways to share data as you can invite peopl
 ## Cluster
 
 #### purpose
+
+A cluster in networking is a bunch of PCs set to perform the same task controlled and scheduled by certain software. Clusters are usually connected to each other fast local area networks. With each node running its own instance of an operating system 
+
 #### benefits
-#### resource implications
+
+The benefits of cluster networks are. Firstly, they are scalable which means that resources can be added to the cluster at any time. Secondly if a dedicated server from the cluster requires maintenance then it can be stopped while others servers handle its load. This means that it keeps running while under maintenance.
+
 #### communications
+
+The way a cluster network communicates within its self is that the whole network is ran through a piece of software so the PCs don’t talk to each other they just all talk to the switch and router the PCs just work for the software.
+
 #### working practice
+
+Cluster networks are using in working practices to handle heavy loads of work as they can manage many computers at once and do many different tasks at once without putting too much stress on the network. for example, if you had 1 PC with 5 jobs to do that where automated but took an hour each then it is going to take 5 hours. If you were to run it on a cluster with 5 different PCs, then it would only take an hour
+
 #### commercial opportunity
-#### information sharing
-#### collaboration
+
+The commercial opportunity is high as a lot of web server companies and other server companies have a lot of data passing through them and can need sorting, fixing or work data will need to be pulled and assigning this to a cluster which can do the work of many different PCs will not only save time but money as well
+
 
 ## Centralised
 
