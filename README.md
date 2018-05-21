@@ -62,14 +62,34 @@ The users can also upload to the server so if someone was trying to send a piece
 
 ## Cloud
 
-#### purpose
-#### benefits
-#### resource implications
-#### communications
-#### working practice
-#### commercial opportunity
-#### information sharing
-#### collaboration
+#### Purpose
+
+The cloud computing allows users to access shared pools of system resources and high level services that can rapidly provisioned with minimal management effort. Cloud computing relies on sharing resources to achieve coherence and economies scale. Similar to a public utility third party clouds allow companies and organizations to focus on their core business instead of expending resources on computer infrastructure and maintenance.
+
+#### Benefits
+
+The first benefit of cloud computing is the biggest reason why people us it so much. That is that you can work from anywhere that has internet access as you save all of your work to the cloud and all you need to retrieve that is the internet. Another benefit is unlimited storage as long as you want to continue to pay for more and more storage you can store as much data to the cloud as you want. Thirdly disaster recovery the cloud keeps frequent backups of work uploaded it to and sometimes the cloud is used by companies as a backup in case of a disaster.  
+
+#### Resource Implications
+
+The resource implications for a cloud server is simple as all it is from the user’s side is uploading and downloading work that you need or want to store. If you are somewhere with good internet, then uploading and downloading will not be a problem it comes when you don’t have internet access you can get your work. 
+
+#### Communications
+
+The communication is between the device that is uploading or downloading work from the server and the server its self. Work will be transferred via the internet between the two this is why the internet is so important for the cloud. Once the file is uploaded then the cloud will have a certain storage for the file under the users account.
+
+#### Working Practice
+
+This method can be used in many different work places and at home. For example, in a work place if you are running a different team under a project then everyone will need to access each other’s work. So to make it easy if everyone was to upload to the cloud under different folders then everyone can get a copy of the work and see each other’s progress in real time. Also at home if you want to retrieve data from your PC on your tablet then as long as it is saved on the cloud all you need to sign in and you will be able to open it. It can also be used in school to give out work to many students instead of emails. All the students could access the cloud though the internet on their own PCs.
+
+#### Commercial Opportunity
+
+The commercial opportunity for the cloud is very strong as almost all companies are on the internet and need storage so companies will hire out space to save data. Then once they fill up their storage they will hire out more. Also normal day to day people need storage as well so they will most likely hire out storage as well 
+
+#### Information Sharing
+
+The cloud is probably one of the best ways to share data as you can invite people to your work and they can work on it with you in real time and also they can save copies for themselves. Also if you are moving work from a personal cloud to someone else all you have to do Is email it or invite them to join it and then they can save it. 
+
 
 ## Cluster
 
