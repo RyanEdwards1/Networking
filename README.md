@@ -95,6 +95,53 @@
 
 ### SSL
 
+## The impact of networking topology, communication and bandwidth:
+
+### Topologies:
+#### Logical:
+##### Ethernet:
+##### Token Ring:
+
+#### Physical:
+##### Star:
+##### Ring:
+##### Bus:
+##### Mesh:
+##### Tree:
+
+### Communication:
+#### Suitability of devices
+#### Suited to users
+#### Supportive of lifestyle desires 
+#### Supportive of commercial requirements
+#### Security requirements 
+#### Quality of service needs and the effect that bandwidth has
+
+## Glossary of Operating Principles:
+### Networking devices:
+#### Hubs
+#### Routers
+#### Switches
+#### Multilayer switch
+#### Firewall
+#### HIDS
+#### Repeaters
+#### Bridges
+#### Wireless devices
+#### Access point (wireless/wired)
+#### Content filter
+#### Load balancer
+#### Modem 
+#### Packet shaper 
+#### VPN concentrator
+
+### Server types:
+#### Web
+#### File
+#### Database
+#### Combination (e.g MS Small Business Servers)
+#### Virtualisation and terminal services server
+
 ## Design Of Network System
 
 ![aass](https://user-images.githubusercontent.com/31927415/40000319-6e2de9ec-5783-11e8-9f54-1acc2932d1de.PNG)
