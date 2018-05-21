@@ -117,13 +117,29 @@ The commercial opportunity is high as a lot of web server companies and other se
 ## Centralised
 
 #### purpose
+
+Centralised networks are when all the user’s PCs are connecting to a server with no internet connection it is just a bunch of PCs in a star lay out all connected to a single server. The server will store all their account information and handle all the communication that comes out of each PC. This can put a lot of stress on a single switch.
+
 #### benefits
+
+Some benefits of using a centralised network are. Firstly, the network is easy to manage as it is all hooked up to a server. Secondly this can reduce the cost as most of the time these are ran in house so it can save money. Thirdly it is easy to add another user to the network as all you do is plug the PC in to the server and you are good to go. Finally, you can run everything though the server so you can roll out updates or work to all users
+
 #### resource implications
+
+The resource implications for a centralised network is firstly not expensive as you only have PCs and a server. Also, they are all hooked up though cables which can sometimes get in the way if not managed correctly but are consistent at passing data though. Thirdly the network can be running off the server and easily managed   
+
 #### communications
+
+There is only one way the network communicates with each other and that is though cables that run to the server then the server puts it out to the other PCs. Nothing is connected to the internet so no data leaves the network though the PCs unless taken off the network and uploaded.
+
 #### working practice
-#### commercial opportunity
+
+The way the network runs is entirely up to the person managing the network though the server and the people on the PCs. Centralised would normally be used by a team of people using the server to transfer work and data to one another if they were in a spread-out office as it is quicker than email or USB.
+
 #### information sharing
-#### collaboration
+
+Centralised is very good for sharing files in house. So, in an office for a team project but when it comes to getting work on the internet it cannot do so. As it is basically an inhouse version of a client server which runs the same but though the internet 
+
 
 ## Virtualised
 
