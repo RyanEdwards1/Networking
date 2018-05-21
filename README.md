@@ -58,7 +58,7 @@ A commercial opportunity for a client server could be that someone is creating a
 
 The users can also upload to the server so if someone was trying to send a piece of data to another person they will upload to the server and the other user will retrieve it from the server 
 
-
+ 
 
 ## Cloud
 
