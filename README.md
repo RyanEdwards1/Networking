@@ -4,14 +4,14 @@
 
 ## Peer-based
 
-#### purpose
-#### benefits
-#### resource implications
-#### communications
-#### working practice
-#### commercial opportunity
-#### information sharing
-#### collaboration
+#### Purpose
+#### Benefits
+#### Resource Implications
+#### Communications
+#### Working Practice
+#### Commercial Opportunity
+#### Information Sharing
+#### Collaboration
 
 ## Client-server
 
