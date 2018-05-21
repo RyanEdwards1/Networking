@@ -93,50 +93,50 @@ The cloud is probably one of the best ways to share data as you can invite peopl
 
 ## Cluster
 
-#### purpose
+#### Purpose
 
 A cluster in networking is a bunch of PCs set to perform the same task controlled and scheduled by certain software. Clusters are usually connected to each other fast local area networks. With each node running its own instance of an operating system 
 
-#### benefits
+#### Benefits
 
 The benefits of cluster networks are. Firstly, they are scalable which means that resources can be added to the cluster at any time. Secondly if a dedicated server from the cluster requires maintenance then it can be stopped while others servers handle its load. This means that it keeps running while under maintenance.
 
-#### communications
+#### Communications
 
 The way a cluster network communicates within its self is that the whole network is ran through a piece of software so the PCs don’t talk to each other they just all talk to the switch and router the PCs just work for the software.
 
-#### working practice
+#### Working Practice
 
 Cluster networks are using in working practices to handle heavy loads of work as they can manage many computers at once and do many different tasks at once without putting too much stress on the network. for example, if you had 1 PC with 5 jobs to do that where automated but took an hour each then it is going to take 5 hours. If you were to run it on a cluster with 5 different PCs, then it would only take an hour
 
-#### commercial opportunity
+#### Commercial Opportunity
 
 The commercial opportunity is high as a lot of web server companies and other server companies have a lot of data passing through them and can need sorting, fixing or work data will need to be pulled and assigning this to a cluster which can do the work of many different PCs will not only save time but money as well
 
 
 ## Centralised
 
-#### purpose
+#### Purpose
 
 Centralised networks are when all the user’s PCs are connecting to a server with no internet connection it is just a bunch of PCs in a star lay out all connected to a single server. The server will store all their account information and handle all the communication that comes out of each PC. This can put a lot of stress on a single switch.
 
-#### benefits
+#### Benefits
 
 Some benefits of using a centralised network are. Firstly, the network is easy to manage as it is all hooked up to a server. Secondly this can reduce the cost as most of the time these are ran in house so it can save money. Thirdly it is easy to add another user to the network as all you do is plug the PC in to the server and you are good to go. Finally, you can run everything though the server so you can roll out updates or work to all users
 
-#### resource implications
+#### Resource Implications
 
 The resource implications for a centralised network is firstly not expensive as you only have PCs and a server. Also, they are all hooked up though cables which can sometimes get in the way if not managed correctly but are consistent at passing data though. Thirdly the network can be running off the server and easily managed   
 
-#### communications
+#### Communications
 
 There is only one way the network communicates with each other and that is though cables that run to the server then the server puts it out to the other PCs. Nothing is connected to the internet so no data leaves the network though the PCs unless taken off the network and uploaded.
 
-#### working practice
+#### Working Practice
 
 The way the network runs is entirely up to the person managing the network though the server and the people on the PCs. Centralised would normally be used by a team of people using the server to transfer work and data to one another if they were in a spread-out office as it is quicker than email or USB.
 
-#### information sharing
+#### Information Sharing
 
 Centralised is very good for sharing files in house. So, in an office for a team project but when it comes to getting work on the internet it cannot do so. As it is basically an inhouse version of a client server which runs the same but though the internet 
 
