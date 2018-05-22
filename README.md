@@ -153,13 +153,25 @@ The first benefit of using virtualised networks are. That it saves spending time
 
 #### resource implications
 
-the resource implications to run a virtualised network costs know where near the price of trying to run it with real hardware this is one of the main points why people do it. Also you can run it off one PC which will need to be high spec but you will still save money instead of buying all the hardware. Apart from a PC all you will need is an internet connection and if you are in an office block that is easy to get hold of.
+The resource implications to run a virtualised network costs know where near the price of trying to run it with real hardware this is one of the main points why people do it. Also you can run it off one PC which will need to be high spec but you will still save money instead of buying all the hardware. Apart from a PC all you will need is an internet connection and if you are in an office block that is easy to get hold of.
 
 #### communications
+
+The communication of the virtual network depends on the network that you are setting up inside the virtualisation. 
+
 #### working practice
+
+virtualised networks can be used in work places all the time for many different things such as testing new networks or training new people on networking as you may not want them handling actual hardware. Also it can be used to be a running network within a company running off of one machine.
+
 #### commercial opportunity
+
+virtual networks have a huge market for people that just coming to networking as everything is virtual you cannot break anything and you save a lot of time and money with not having to buy hardware and set it up. 
+
 #### information sharing
-#### collaboration
+
+the only information that is shared is within the virtual network.
+
+
 
 ## Conceptual models:
 ### OSI Model
