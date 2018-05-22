@@ -176,6 +176,22 @@ the only information that is shared is within the virtual network.
 ## Conceptual models:
 ### OSI Model
 
+Physical – The first layer in the OSI Model. The job of the first layer is to convey the bit stream, electrical impulse, light or radio signal though the network. it provides the hardware means of sending and receiving data to a user including the important cables, cards and physical aspects.
+
+Data Link – The second layer of the OSI Model is Data Link. This layer receives data packet and encoded and decoded which it turns into bits. It uses the transmission protocell knowledge and management to handle the errors in the physical layer. The data link layer is divided in two sub layers. The media access control layer and the logical link control layer. The media access layer controls how a computer on the network gamins access to the data and permission to transmit data. The logical link layer controls frame synchronization and flow control as well as error checking 
+
+Network – Network is the third layer in the OSI Model. Layer 3 provides switching and routing which creates logical paths known as virtual circuits for transmitting data from node to node.
+
+Transport – The fourth layer of the OSI Model is the transport layer. This layer transfers data between end systems. It is also responsible for end to end recovery and flow control. All of these ensure that the data is transferred completely 
+
+Session – the fifth layer in the OSI Model is Session. This later is responsible for managing connections between applications. The session layer also sets up the applications like its coordinates, terminates conversations and exchanges. It also handles the connection  
+
+Presentation – The sixth layer of the OSI model is Presentation. The presentation layer manages Indi pended data representation for example encryption. It does this my translating application to network format. The layer works to transform data into the form that can be accepted by the application layer. 
+
+Application – Application is the last layer in the OSI. This layer provides application services for file transfers, email and other network software services. It supports the end user processes such as communication partners and user authentication privacy 
+
+
+
 ### TCP/IP Model
 
 ## Working standards and protocols:
