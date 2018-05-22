@@ -143,9 +143,18 @@ Centralised is very good for sharing files in house. So, in an office for a team
 
 ## Virtualised
 
-#### purpose
+#### Purpose 
+
+Network virtualisation is the ability to create logical virtual networks that are run form the underlying network hardware to ensure the network can better integrate with virtual environments. So in simple terms you are creating a simulate of a hardware platform suck as a server, storage or any other network resource in a selected software.  
+
 #### benefits
+
+The first benefit of using virtualised networks are. That it saves spending time and money on actual hardware like buying it and then setting it up. The software will do that for you. Secondly the security is very strong on them as it will on be generated from one PC so if that PC is secure then the whole network should be secure. Another benefit if the energy costs as it would cost a lot to run multiple PCs and switches and many other network devices but you can do it for the energy cost of one PC if you virtualize it.
+
 #### resource implications
+
+the resource implications to run a virtualised network costs know where near the price of trying to run it with real hardware this is one of the main points why people do it. Also you can run it off one PC which will need to be high spec but you will still save money instead of buying all the hardware. Apart from a PC all you will need is an internet connection and if you are in an office block that is easy to get hold of.
+
 #### communications
 #### working practice
 #### commercial opportunity
