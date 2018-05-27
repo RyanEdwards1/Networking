@@ -190,29 +190,66 @@ Presentation – The sixth layer of the OSI model is Presentation. The presentat
 
 Application – Application is the last layer in the OSI. This layer provides application services for file transfers, email and other network software services. It supports the end user processes such as communication partners and user authentication privacy 
 
-
-
 ### TCP/IP Model
 
-## Working standards and protocols:
-### IEEE 802.3, .7, .8, .11
+TCP/IP stands for Transmission Control Protocol/Internet Protocol, it is loads of different protocols that come together in order to connect devices over the internet. It has 4 different layers each with their own responsibilities and tasks. These are:
 
-### IPv4, IPv6
-#### Global unicast
-#### Multicast 
-#### Link local 
-#### Unique local 
-#### EUI 64 
-#### Auto configuration
+
+Application - This layer is responsible for specifying which protocol is to be used by what application or data.
+
+Transport - The Transport layer is responsible for creating and maintaining communication between the sender and the reciever. Only two protocols are used in this later. TCP which has a system in place to check if the recipient and recieved the data, and UDP which doenst check if the recipient has got the data.
+
+Internet - This layer is responsible for segmenting any data sent into packets, these packets are then routed to the recipient using the recipients IP address.
+
+Network Access - The Network Access layer is responsible for interfacing with your network’s architecture. It is also at this layer that error checking information is applied to sent data so the recipient can check for errors.
+
+## Working standards and protocols:
+
+### IEEE 802.3
+
+IEEE 802.3 is a standard Ethernet. Which is used as a method of physical communication in a local area network.  IEEE 802.3 defines the physical layer and the media access control. It could be stated that the IEEE 802.3 could otherwise be known as the ethernet standard that defines the physical layer on a model. The connection speeds of a IEEE 802.3 ethernet is 10Mbits/s which is equal to 1.25MB/s.
+
+### IEEE 802.7
+
+IEEE 802.7 is the standard assigned to a broadband connection. It is outlined in the designs and implementation of the connection. It also outlines some different methods of testing connections
+
+### IEEE 802.8
+
+IEEE refers to the standard of fibre optic connection. Within a LAN. It is in the same group as the previous standards and outlines many of the same defining features however is called a standard by itself as it covers a different connection type
+
+### IEEE 802.11
+
+IEEE 802.11 is the standard of wireless connections. Wireless connection is the most common internet connection in this day. It also follows the standards in Wi -Fi. This standard outline what frequencies are used via wireless access points and hubs 
+
+### Routed Protocols
+
+A routed protocol is a protocol where data can be routed all over the place. In this kind of protocols, it requires an addressing scheme and subnetting. Addressing scheme will be used to determine the network to which a host belongs and to identifying that host on that network. Making it so you can transfer data from one PC to another. One type and the most popular type of routing protocol is IP addresses. They are a reason that IP addresses are more popular than other routed protocols.
+
+### IPv4
+
+IPv4 stands for Internet Protocol version 4. It is one of the core protocols of standards-based internetworking methods in the Internet. It is the fourth revision of the internet protocol. It is used widely in data communication over different types of networks. IPv4 is a wireless protocol used in packet-switched layer networks such as Ethernet. It provides the connection between network devices by providing identification for each device known as a IP Address. 
+
+### IPv6 
+
+IPv6 is the new generation of internet protocols. It was created to eventually replace IPv4 when it runs out of room to generate new IPs. The protocol IPv4 is still used in many Internet services still use today. Every computer, mobile phone, and any other device connected to the Internet needs a numerical IP address to communicate with other devices. The original IP address scheme, called IPv4, is running out of addresses.
 
 ## Services and network applications:
+
 ### FTP
+
+
 
 ### HTTP
 
+
+
 ### SMTP
 
+
+
 ### POP3
+
+
 
 ### SSL
 
