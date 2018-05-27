@@ -237,21 +237,24 @@ IPv6 is the new generation of internet protocols. It was created to eventually r
 
 ### FTP
 
-
+FTP stands for File Transfer Protocol. FTP is a protocol for transmitting files between computers on the internet over TCP/IP connections. FTP is a client server protocol that relies on two communication channels between client and server. When using FTP users can upload, download, delete, rename, move and copy files on a server
 
 ### HTTP
 
-
+HTTP means HyperText Transfer Protocol. HTTP is the protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted over the internet and what actions web servers and browsers should take in response to various commands.
 
 ### SMTP
 
-
+SMTP means Simple Mail Transfer Protocol, it uses the TCP/IP protocol when sending and receiving emails. The modern email services use this protocol. 
 
 ### POP3
 
-
+POP3 means Post Office Protocol 3 it is the most recent version of a standard protocol for receiving emails. The client emails are stored on a server which means it can downloaded by the user and deleted afterwards.
 
 ### SSL
+
+SSL Stands for Secure Socket Layers. SSL is all about security in the communication over the internet by using specific security methods such as encryption 
+
 
 ## The impact of networking topology, communication and bandwidth:
 
@@ -277,28 +280,89 @@ IPv6 is the new generation of internet protocols. It was created to eventually r
 
 ## Glossary of Operating Principles:
 ### Networking devices:
+
 #### Hubs
+
+Hubs are the connection points for devices within a network. It manages all the traffic and routes it to its destination over the local connections. The hub contains multiple ports that the clients and devices and connect to access other devices on the local area network.
+
 #### Routers
+
+Routers are what connects multiple local network together and acts as the set router for its local network and will connect to many other local network routers so they can link and send information back and forth.  A router receives packets of data with address attached to them. The router can read it and see where to send it.
+
 #### Switches
+
+A Switch is a device on the network that all the devices connect to. It uses packet switching to redirect, receive and process information and data and then forward the data to their destination across a LAN. 
+
 #### Multilayer switch
+
+A multilayer switch that operates much more efficient them a normal switch and therefore increases the speed of the data transfer to anything connected to it
+
 #### Firewall
+
+A Firewall is a piece of Security software that is made to filter traffic entering a network for client or website to make sure that unwanted software enters the user’s PC or Network.
+
 #### HIDS
+
+HIDS is known as host-based intrusion detection system is used to detect a threat to a user’s PC or networks. It searches though data being sent though networks and looks for things that could be a threat 
+
 #### Repeaters
+
+Repeaters are devices that are used to make a signal stronger that is being sent over a large distance on a LAN, this allows the size of LANs to be much larger. 
+
 #### Bridges
-#### Wireless devices
-#### Access point (wireless/wired)
+
+Bridges are used to get a connection with other networks that are also using a bridge. One thing you must make sure is that both networks are using the same protocols. If they do not match then they will not be able to connect to each other.
+
+#### Access point 
+
+Access points are used to give users with a connection to a network. But they are physically not connected to that network they are somewhere that their provider has a access point so you can connect wirelessly. Wireless access points are the most common, they use Wi-Fi to allow the users to connect to the network remotely.
+
 #### Content filter
+
+A content filter is very simple and has one job. It uses rules that where set by a admin or another user and any data coming in to the network or PC will be checked against the rules and it will be let through or reflected. For example, spam, or malicious. Email servers commonly use content filters to filter spam emails.
+
 #### Load balancer
+
+A load balancer is used to spread out the workload over the entire network. These are implemented when it gets busy as it can spread the load and reduce the stress. This increases the productivity on the network as well-meaning if you are falling behind you should be able to get back on track 
+
 #### Modem 
+
+A modem is used to connect networks to an existing telephone line. While this can be good for reaching remote areas, they do not have amazing speeds.
+
 #### Packet shaper 
+
+A packet shaper is used to prioritise certain data being sent over the network. It forces lower priority packets to wait and for the network to prioritise high importance data first. 
+
 #### VPN concentrator
 
+A VPN concentrator is used to allow multiple users on the same network to use the same VPN, it does this by coordinating and organising the traffic on a network between different machines trying to access the VPN.
+
 ### Server types:
+
 #### Web
+
+A Web Server stores and sends data on websites over the internet. A user will make a request to the web server for information on how to display the webpage and what information needs to be loaded. The server handles this request and sends a copy of the data to the user. Thousands of requests can be handles by a web server at any given time. An example of this is Google as it is used billions of times a day with users asking simple requests. 
+
 #### File
+
+A file server is used to store files and data for users on the network to access whenever they need it. The data stored on this server can range from public data that anyone on the network can have access to. Or private data that only a specific user can access. For example, OneDrive 
+
 #### Database
-#### Combination (e.g MS Small Business Servers)
-#### Virtualisation and terminal services server
+
+A database server is a type of server that stores data.  The data stored on these servers are related to one another so that requests can be made for other information pertaining to a certain subject. 
+
+#### Combination
+
+A combination server is a server has the function of the file server and the database server together. This server can perform the same actions as the file server and the database server at the same time.
+
+#### Virtualisation
+
+Virtualisation servers are servers that can have completely virtualise a network set up with everything you need using certain software and running it off hardware in your own PC
+
+#### Terminal Services Server
+
+A terminal service is a service that allows a user to take control of a remote computer or virtual machine using a network connection. This can allow a user to control aspects of other PC's from one PC to save time and resources and to prevent the user from going to each PC and changing them manually
+
 
 ## Design Of Network System
 
