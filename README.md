@@ -256,7 +256,7 @@ POP3 means Post Office Protocol 3 it is the most recent version of a standard pr
 SSL Stands for Secure Socket Layers. SSL is all about security in the communication over the internet by using specific security methods such as encryption 
 
 
-## The impact of networking topology, communication and bandwidth:
+## The Impact Of Networking Topology, Communication And Bandwidth:
 
 ### Topologies:
 #### Logical:
