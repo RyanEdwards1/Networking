@@ -259,24 +259,39 @@ SSL Stands for Secure Socket Layers. SSL is all about security in the communicat
 ## The Impact Of Networking Topology, Communication And Bandwidth:
 
 ### Topologies:
+
 #### Logical:
+
+A logical topology is a set of fragments that define the specific arrangement and communication of nodes on a network.
+
 ##### Ethernet:
+
+Ethernet is a type of logical topology. Ethernet is the most common LAN technology. Ethernet formats exactly how data is going to be transmitted to other network devices which are on the same network. 
+
 ##### Token Ring:
 
+A token ring is a LAN in which computers are connected in a ring or star topology and pass one or more logical tokens from host to host. Only the host who holds the token can send data
+
 #### Physical:
+
+A physical topology is the physical hardware of a network. This can consist of the clients and the cables on the network connecting them. This allows organisations to physically layout the network
+
 ##### Star:
+
+The star topology is when all the devices and clients are connected to one central node which would mainly be a hub or switch.
+
 ##### Ring:
+
+The ring topology is when all the clients and devices on the network are connected to one other devices on that network in a circle layout such as PC1 connected to PC2 and PC2 connect to a server.
+
 ##### Bus:
-##### Mesh:
-##### Tree:
+
+The bus topology is when all the clients and devices are connected on a single line which are terminated on both ends.
+
 
 ### Communication:
-#### Suitability of devices
-#### Suited to users
-#### Supportive of lifestyle desires 
-#### Supportive of commercial requirements
-#### Security requirements 
-#### Quality of service needs and the effect that bandwidth has
+
+Communication in networking evolves two or more machines sending and receiving data for each other. One of the simplest forms of communication in a network is when a pc requests data from a server. This can range from simple to complex questions to the server to get what you are after. For example, if a user is trying to retrieve some information off a website then first you would load up the web page which means your two networks are connecting and already exchanging information. This is where security comes in because if one of the networks doesn’t like what it is seeing then it will either stop u from entering the website or kick you off. This is the firewalls doing their job reading the packets coming in and out.  Another example is sending data when sent If the data passes the screening from the other user’s firewall then it will be allowed through however if not, it is sent back to the sender. There are occasions where data is falsely identified to be harmful which results in the data not being sent however this is a rare occurrence.
 
 ## Glossary of Operating Principles:
 ### Networking devices:
