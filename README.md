@@ -410,6 +410,37 @@ A proxy server is a piece of software that runs on a PC. Its job is to act as a 
 
 ## Network Device and Cabling
 
+### Network Comparison
+
+A network card is hardware component that is used to connect a computer to a network. A network card works by sending data by a physical connection like a ethernet connection. But it can be run wirelessly though Wi-Fi as well. The most common way is though Wi-Fi as you can use it on the move with no cables if you have an internet connection. On draw back to wireless is that it is not as secure or quick as an Ethernet wired connection. As the signal can get lost with barriers like walls or a lot of users at a time. You could also use your mobile connection such as 4G or 3G. As this is a wireless connection but it requires that you have mobile signal and sometimes people’s internet use is limited by their provider. Mobile phones can only use the mobile network, as mobiles manipulate the frequencies for good connection to the network.
+
+### Cabling 
+
+Cabling is used to connect computers together to the network. The computers can then communicate over this connection. Cables are usually used if the distance between the machines is quite small as Wireless has such a big range now. But wired still has the advantage of speed and security. There are many different types of cables they are 
+
+* Patch Cables – Patch Cables are cables like a ethernet cable. These cables are used to connect networks together. They are used to connect computers to hubs, switches or a router. They are primary used in homes as the cables do not have to be run very far and are reliable 
+
+* Shielded Cables – Shielded Cables are Ethernet cables but they are insulated within a conductive layer. This reduces the electricity to the outside and reduces the loss as the signals travel though cables when being transmitted.
+
+* Twisted pair – Twisted Pair Cables are two copper cables that have been twisted together within the same wire. This helps protect against signal jumping across different cables when packets of data are being sent.
+
+### Permissions
+
+Permissions are what the user has set up on what can access what within a network or on a system. Permissions can come in two different types. NTFS and Shared Permissions.
+
+### NTFS
+
+NTFS stands for New Technology File System. NTFS is the permissions that are used when setting up who can access certain files and folders on a network. They can set the rights on the files as read only or edit. NTFS allows for more flexible options to give the right users the right permissions they need to maintain the network and the files on it.
+
+### Shared Permissions
+
+Shared permissions are permissions that are set on shared folders for multiple users. They are used to define rules that different groups of users on the network must abide by when trying to access files stored on the network. An example of this are educational places like schools and college limiting what the students can access 
+
+### System bus
+
+A system bus is a connection that is used to carry data between the main memory of the computer and carrying it to the microprocessor. It provides a pathway for the data to travel on within the PC. The address of the bus will determine where the information should be sent and the control bus is used to determine its operating when it gets there.
+
+
 ## Design Of Network System
 
 ![aass](https://user-images.githubusercontent.com/31927415/40000319-6e2de9ec-5783-11e8-9f54-1acc2932d1de.PNG)
