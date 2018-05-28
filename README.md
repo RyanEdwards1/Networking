@@ -382,31 +382,31 @@ A terminal service is a service that allows a user to take control of a remote c
 
 ### Networking Software
 
-
+Network software is a term used to describe the software that is used for designing and implementing modern networks. There are six different networking software programs that can be used for creating networks, these are:
 
 ### Client Software
 
-
+Client software works within the local network and wide area networks. It acts like an interface between the client’s computer and the server that is on the network. Client software is an application on the client’s PC that is either a word processor, Web browser or any other service that the computer provides.
 
 ### Server Software
 
-
+Server software is downloaded onto servers to allow them to perform certain tasks. Allowing them to focus on one main thing. The type of software installed on a server will decide what the job of that server will be. These can be web hosting, file transfer and acting as a dedicated email server.
 
 ### Client Operating System
 
-
+A client operating system is a computer that doesn’t require networks or external components to properly function and mainly works within the computer The operating system helps the users with different functions such as scheduling, browsing the internet and mail. The Operating systems also provide the clients computer with a detailed and extensive user interface to enable the user to use the computer as efficiently as possible
 
 ### Server Operating system
 
-
+A server operating system is like an operating system but it is created to run and be used on a server. It is made to deal with the requests from client computers in the network. The only difference is that a server operating system enables additional features to help the server perform its functions effectively.
 
 ### Firewall
 
-
+A Firewall is a piece of software that has the choice of what data is aloud though the barrier and what gets denied. It does this by opening and closing the ports on the network to keep it secure. The rules that get put in place by the user when setting up the firewall allows the firewall to run the data against them rules and if then knows if it is good or bad. Having a firewall makes it much harder to get viruses and other dangerous software on your PC or Network. 
 
 ### Proxies
 
-
+A proxy server is a piece of software that runs on a PC. Its job is to act as a gate between an endpoint and another server that the client is connecting too. The proxy stays in a PC like a firewall. So, all the requests will go through the proxy and forwarded.  Once a proxy server receives a request for an internet resource, which can be a web page, it runs through a cache of past pages and returns it to the user once found, without having to forward the request to the internet.
 
 ## Network Device and Cabling
 
