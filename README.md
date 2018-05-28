@@ -378,6 +378,37 @@ Virtualisation servers are servers that can have completely virtualise a network
 
 A terminal service is a service that allows a user to take control of a remote computer or virtual machine using a network connection. This can allow a user to control aspects of other PC's from one PC to save time and resources and to prevent the user from going to each PC and changing them manually
 
+## Workstation Hardware
+
+### Networking Software
+
+
+
+### Client Software
+
+
+
+### Server Software
+
+
+
+### Client Operating System
+
+
+
+### Server Operating system
+
+
+
+### Firewall
+
+
+
+### Proxies
+
+
+
+## Network Device and Cabling
 
 ## Design Of Network System
 
